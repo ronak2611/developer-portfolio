@@ -1,6 +1,6 @@
 
 
-\# Ronak Kumar — Developer Portfolio
+Ronak Kumar — Developer Portfolio
 
 
 
@@ -30,35 +30,22 @@
 
 
 
-\## Current Skills
+ Current Skills
+
+**Python** — 50%
+`█████░░░░░`
+
+**Linux / Bash** — 40%
+`████░░░░░░`
+
+**Git / GitHub** — 50%
+`█████░░░░░`
+
+**HTML / CSS** — Beginner
+`███░░░░░░░`
 
 
-
-Python 50%
-
-
-
-Linux / Bash 40%
-
-
-
-Git / GitHub 50%
-
-
-
-\---
-
-
-
-\## Learning Roadmap
-
-
-
-See \[LEARNING\_ROADMAP.md](./LEARNING\_ROADMAP.md) for my full 6-semester plan.
-
-
-
-\## Progress Tracker
+ Progress Tracker
 
 
 
