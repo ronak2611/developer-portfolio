@@ -45,11 +45,6 @@ Ronak Kumar — Developer Portfolio
 `███░░░░░░░`
 
 
- Progress Tracker
-
-
-
-See \[PROGRESS.md](./PROGRESS.md) for coding platform progress.
 
 
 
